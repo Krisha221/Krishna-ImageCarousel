@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+}
+
+.whole-carousel{
+  display: grid;
+  width: 50%;
+}
+
+.image-carousel{
+  display: flex;
+  margin: auto;
+}
